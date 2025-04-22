@@ -112,6 +112,7 @@
     }
   ],
   "publications": [
+    { "name": "FOOBAR"},
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
