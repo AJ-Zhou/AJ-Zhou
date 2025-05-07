@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We received the 2025 best paper award of IEEE Transactions on Very Large-Scale Integration Systems
+We received the 2025 best paper award of IEEE VLSI
