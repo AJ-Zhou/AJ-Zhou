@@ -24,8 +24,8 @@ ninja.data = [{
             },},{id: "news-three-papers-accepted-to-iclr2025-two-spotlights",
           title: 'Three papers accepted to ICLR2025 (Two Spotlights).',
           description: "",
-          section: "News",},{id: "news-we-received-the-2025-best-paper-award-of-ieee-transactions-on-very-large-scale-integration-systems",
-          title: 'We received the 2025 best paper award of IEEE Transactions on Very Large-Scale...',
+          section: "News",},{id: "news-we-received-the-2025-best-paper-award-of-ieee-vlsi",
+          title: 'We received the 2025 best paper award of IEEE VLSI',
           description: "",
           section: "News",},{
         id: 'social-email',
